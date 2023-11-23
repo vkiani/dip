@@ -1,4 +1,4 @@
-Introduction to Image Processing in Python
+Introduction to Image Processing in Python [Book in Persian]
 
 This GitHub project contains supplementary material for the textbook, including Jupyter Notebooks and Images. Python notebooks of each chapter are located at a separate folder. All notebooks are executed by the author and all codes would work. The book is originally written in Persian language.
 
